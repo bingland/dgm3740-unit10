@@ -1,0 +1,50 @@
+.wp-block-contact-form-7-contact-form-selector {
+  max-width: 1200px;
+  margin: 0 auto;
+
+  .wpcf7 {
+    margin: 10px;
+    form p {
+      margin: 10px 0;
+  
+      .wpcf7-not-valid-tip {
+        display: block;
+        font-size: 13px;
+        color: red;
+        //padding-bottom: 5px;
+      }
+    }
+    .wpcf7-text, .wpcf7-textarea {
+      margin: 5px 0;
+      padding: 3px;
+      font-size: 16px;
+    }
+    .wpcf7-submit {
+      padding: 8px;
+      font-size: 18px;
+      width: 150px;
+      background-color: $darkblue;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 21px;
+      font-weight: bold;
+    }
+  
+    .screen-reader-response {
+      p {
+        color: red;
+      }
+      p[aria-atomic="true"] {
+        color: black;
+      }
+      ul {
+        display: none;
+      }
+    }
+    .wpcf7-response-output {
+      display: none;
+    }
+  }
+}
+
