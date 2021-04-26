@@ -1,16 +1,15 @@
 // global colors
-// $orange: #F69800;
-// $yellow: #F5FF3B;
-// $lightblue: #84A9C0;
-// $purple: #6A66A3;
-// $darkblue: #102E4A;
+// $grad1: #6DE5F2;
+// $grad2: #50A7F2;
+// $grad3: #6D81F2;
+// $grad4: #6A66F2; 
 
 footer {
     margin-top: 40px;
     line-height: 1.2;
 
     .mainFooter {
-        background-color: $darkblue;
+        background-color: $grad4;
         color: white;
         padding: 10px 15px 20px 15px;
 
@@ -53,21 +52,21 @@ footer {
 
     .footerIcons {
         text-align: center;
-        background-color: $lightblue;
+        background-color: $grad3;
         padding: 10px 0;
 
         .socialIcon {
             max-width: 50px;
             max-height: 50px;
             margin: 0 5px;
-            background-color: $darkblue;
+            background-color: $grad4;
             border-radius: 11px;
             padding: 7px;
             fill: white;
             cursor: pointer;
         }
         .socialIcon:hover {
-            background-color: lighten($darkblue, 10%);
+            background-color: lighten($grad4, 10%);
         }
     }
 

@@ -3,7 +3,7 @@
             <div class="wrapper1200">
                 <div class="contactUs">
                     <h3>Contact Us</h3>
-                    <a href="https://www.google.com/maps/place/23+S+Main+St+%2316,+Lexington,+VA+24450/">Cabot Cruizes<br>
+                    <a href="https://www.google.com/maps/place/23+S+Main+St+%2316,+Lexington,+VA+24450/">Dreamer Vacations LLC<br>
                     23 South Main St. Suite 16<br>
                     Lexington, VA 24450</a>
                     <h3>Phone</h3>
@@ -20,8 +20,8 @@
                     </form>
                 </div>
                 <div class="why">
-                    <h3>Why Cabot Cruises</h3>
-                    <p>Cabot Cruises is a travel agency providing the best cruise deals on our online travel website. We can help you with all inclusive vacaMons including discounted cruises. We do not sell travel to residents of Delaware, Iowa, Florida, Hawaii and Washington state because those states are just wierd. If you are a resident of one of these states, call your congressman and tell them to change the regulations.</p>
+                    <h3>Why Dreamer Vacations LLC</h3>
+                    <p>Dreamer Vacations LLC is a travel agency providing the best cruise deals on our online travel website. We can help you with all inclusive vacaMons including discounted cruises. We do not sell travel to residents of Delaware, Iowa, Florida, Hawaii and Washington state because those states are just wierd. If you are a resident of one of these states, call your congressman and tell them to change the regulations.</p>
                 </div>
             </div>
         </div>

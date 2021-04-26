@@ -14,15 +14,13 @@
 <body>
     <header>
         <div class="wrapper1200">
-            <!-- <img src="https://via.placeholder.com/150"> -->
-            <figure class="logo">
-                <img src="./images/logo/logo@2x.png" alt="logo"
-                srcset="/images/logo/logo@1x.png 1x, /images/logo/logo@2x.png 2x, /images/logo/logo@3x.png 3x">
-            </figure>
+            <div class="logo">
+                <img src="/images/logo/logo.svg" alt="main logo" />
+            </div>
             <div class="phone"><a href="tel:123-456-7890">1-123-456-7890</a></div>
         </div>
     </header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #6A66F2;">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">Dreamer Vacations</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -45,7 +43,7 @@
             </ul>
             <form class="d-flex">
                 <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success" type="submit">Search</button>
+                <button class="btn btn-outline-light" type="submit">Search</button>
             </form>
             </div>
         </div>
