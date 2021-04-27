@@ -5,43 +5,43 @@
     <div class="imageArea">
         <figure class="imageBox">
             <img src="/images/content/destinations/destination01.jpeg" alt="Destination Image">
-            <figcaption>Caption goes here. Caption goes here. A rea lly nice caption, wow!!! </figcaption>
+            <figcaption>Explore the amazing city of Berlin.</figcaption>
         </figure>
         <figure class="imageBox">
             <img src="/images/content/destinations/destination02.jpeg" alt="Destination Image">
-            <figcaption>Caption goes here. Caption goes here. A rea lly nice caption, wow!!! </figcaption>
+            <figcaption>One of our many tropical getaways.</figcaption>
         </figure>
         <figure class="imageBox">
-            <img src="/images/content/destinations/destination03.jpeg" alt="Destination Image">
-            <figcaption>Caption goes here. Caption goes here. A rea lly nice caption, wow!!! </figcaption>
+            <img src="/images/content/destinations/destination03.jpg" alt="Destination Image">
+            <figcaption>Explore the amazing city of Tokyo.</figcaption>
         </figure>
         <figure class="imageBox">
-            <img src="/images/content/destinations/destination04.jpeg" alt="Destination Image">
-            <figcaption>Caption goes here. Caption goes here. A rea lly nice caption, wow!!! </figcaption>
+            <img src="/images/content/destinations/destination04.jpg" alt="Destination Image">
+            <figcaption>Explore the amazing city of Dallas.</figcaption>
         </figure>
         <figure class="imageBox">
             <img src="/images/content/destinations/destination05.jpeg" alt="Destination Image">
-            <figcaption>Caption goes here. Caption goes here. A rea lly nice caption, wow!!! </figcaption>
+            <figcaption>One of our many tropical getaways.</figcaption>
         </figure>
         <figure class="imageBox">
             <img src="/images/content/destinations/destination06.jpeg" alt="Destination Image">
-            <figcaption>Caption goes here. Caption goes here. A rea lly nice caption, wow!!! </figcaption>
+            <figcaption>One of our many tropical getaways.</figcaption>
         </figure>
         <figure class="imageBox">
-            <img src="/images/content/destinations/destination07.jpeg" alt="Destination Image">
-            <figcaption>Caption goes here. Caption goes here. A rea lly nice caption, wow!!! </figcaption>
+            <img src="/images/content/destinations/destination07.jpg" alt="Destination Image">
+            <figcaption>Explore the amazing city of Rio de Janeiro.</figcaption>
         </figure>
         <figure class="imageBox">
             <img src="/images/content/destinations/destination08.jpeg" alt="Destination Image">
-            <figcaption>Caption goes here. Caption goes here. A rea lly nice caption, wow!!! </figcaption>
+            <figcaption>One of our many tropical getaways.</figcaption>
         </figure>
         <figure class="imageBox">
             <img src="/images/content/destinations/destination09.jpeg" alt="Destination Image">
-            <figcaption>Caption goes here. Caption goes here. A rea lly nice caption, wow!!! </figcaption>
+            <figcaption>One of our many tropical getaways.</figcaption>
         </figure>
         <figure class="imageBox">
             <img src="/images/content/destinations/destination10.jpeg" alt="Destination Image">
-            <figcaption>Caption goes here. Caption goes here. A rea lly nice caption, wow!!! </figcaption>
+            <figcaption>One of our many tropical getaways.</figcaption>
         </figure>
     </div>
     

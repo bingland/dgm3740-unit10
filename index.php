@@ -8,13 +8,13 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="https://via.placeholder.com/1200x500" class="d-block w-100" alt="..">
+                    <img src="/images/content/slider/slider01.jpeg" class="d-block w-100" alt="carousel image">
                 </div>
                 <div class="carousel-item">
-                    <img src="https://via.placeholder.com/1200x500" class="d-block w-100" alt="..">
+                    <img src="/images/content/slider/slider02.jpeg" class="d-block w-100" alt="carousel image">
                 </div>
                 <div class="carousel-item">
-                    <img src="https://via.placeholder.com/1200x500" class="d-block w-100" alt="..">
+                    <img src="/images/content/slider/slider03.jpg" class="d-block w-100" alt="carousel image">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -29,7 +29,7 @@
 
         <div class="cardArea">
             <div class="card" style="width: 18rem;">
-                <img src="https://via.placeholder.com/286x180" class="card-img-top" alt="...">
+                <img src="/images/content/cards/card01.jpeg" class="card-img-top" alt="card image">
                 <div class="card-body">
                     <h5 class="card-title">About Us</h5>
                     <p class="card-text">Learn more about Dreamer Vacations LLC and about our mission to give everybody a great vacation..</p>
@@ -38,7 +38,7 @@
             </div>
 
             <div class="card" style="width: 18rem;">
-                <img src="https://via.placeholder.com/286x180" class="card-img-top" alt="...">
+                <img src="/images/content/cards/card02.jpeg" class="card-img-top" alt="card image">
                 <div class="card-body">
                     <h5 class="card-title">Destinations</h5>
                     <p class="card-text">See our large list of destinations, and imagine your ideal vacation for an ideal price. Book before they disappear!</p>
@@ -47,7 +47,7 @@
             </div>
 
             <div class="card" style="width: 18rem;">
-                <img src="https://via.placeholder.com/286x180" class="card-img-top" alt="...">
+                <img src="/images/content/cards/card03.jpeg" class="card-img-top" alt="card image">
                 <div class="card-body">
                     <h5 class="card-title">Location</h5>
                     <p class="card-text">Have questions about planning your dream vacation? Drop on by into our office and we'll take care of the hard stuff.</p>
@@ -56,7 +56,7 @@
             </div>
 
             <div class="card" style="width: 18rem;">
-                <img src="https://via.placeholder.com/286x180" class="card-img-top" alt="...">
+                <img src="/images/content/cards/card04.jpeg" class="card-img-top" alt="card image">
                 <div class="card-body">
                     <h5 class="card-title">Contact</h5>
                     <p class="card-text">Feel free to contact us if you have any questions about the planning process, or are just plain curious about something.</p>
