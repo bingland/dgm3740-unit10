@@ -1,3 +1,19 @@
+.cardArea {
+  margin: 20px 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-items: center; }
+
+@media only screen and (max-width: 1200px) {
+  .cardArea {
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 20px; } }
+@media only screen and (max-width: 908px) {
+  .cardArea {
+    grid-template-columns: repeat(2, 1fr); } }
+@media only screen and (max-width: 603px) {
+  .cardArea {
+    grid-template-columns: repeat(1, 1fr); } }
 *, *:before, *:after {
   box-sizing: border-box; }
 
@@ -38,7 +54,7 @@ footer {
       footer .mainFooter .wrapper1200 h3 {
         font-weight: bold;
         font-size: 20px;
-        padding: 10px 0; }
+        padding-top: 10px; }
       footer .mainFooter .wrapper1200 .contactUs a {
         color: white; }
       footer .mainFooter .wrapper1200 .newsletter form input {
@@ -65,11 +81,14 @@ footer {
     footer .footerIcons .socialIcon:hover {
       background-color: #9895f6; }
   footer .copyrightArea {
-    text-align: center; }
+    text-align: center;
+    background-color: #50A7F2;
+    color: white; }
     footer .copyrightArea p {
-      padding: 20px; }
+      padding: 20px;
+      margin: 0; }
       footer .copyrightArea p a {
-        color: black; }
+        color: white; }
 
 @media only screen and (max-width: 1007px) {
   footer .mainFooter .wrapper1200 {
