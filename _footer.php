@@ -21,7 +21,7 @@
                 </div>
                 <div class="why">
                     <h3>Why Dreamer Vacations LLC</h3>
-                    <p>Dreamer Vacations LLC is a travel agency providing the best cruise deals on our online travel website. We can help you with all inclusive vacaMons including discounted cruises. We do not sell travel to residents of Delaware, Iowa, Florida, Hawaii and Washington state because those states are just wierd. If you are a resident of one of these states, call your congressman and tell them to change the regulations.</p>
+                    <p>Dreamer Vacations LLC is a travel agency providing the best vacation deals on our online travel website. We can help you with all inclusive destinations including discounted vacations. We do not sell travel to residents of Delaware, Iowa, Florida, Hawaii and Washington state because those states are just wierd. If you are a resident of one of these states, call your congressman and tell them to change the regulations.</p>
                 </div>
             </div>
         </div>

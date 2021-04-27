@@ -1,4 +1,4 @@
-<?php $ptitle='Cabot Cruises - Destinations'; include '_header.php'; ?>
+<?php $ptitle='Dreamer Vacations - Destinations'; include '_header.php'; ?>
 
 <div class="wrapper1200 destinations">
     <h1>Destinations</h1>
