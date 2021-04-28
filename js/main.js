@@ -1,45 +1,24 @@
-let openMenu = document.querySelector('.open')
-let hiddenMenu = document.querySelector('.hiddenNav')
-
-openMenu.addEventListener('click', () => {
-    if (hiddenMenu.style.display !== "block") {
-        hiddenMenu.style.display = "block"
-    } else {
-        hiddenMenu.style.display = "none"
-    }
-})
-
 // menu activation
 let urlString = document.location.href
+console.log(urlString)
 let urlArray = urlString.split('/')
-let pageHREF = urlArray[urlArray.length-1]
-let menu = document.querySelectorAll('.normalNav .li a')
-let mobileMenu = document.querySelectorAll('.hiddenNav .li a')
+console.log(urlArray)
+let pageHREF = urlArray[urlArray.length-1].replace('.php', '')
+console.log(pageHREF)
+let menu = document.querySelectorAll('.nav-link')
 
 let matchfound = false
 
 for (let item of menu) {
-    let currentURL = item.getAttribute('href')
-    if (currentURL === './' + pageHREF) {
-        item.parentNode.className = 'li active'
+    let currentURL = item.getAttribute('href').replace('.php', '').replace('/', '')
+    console.log(currentURL)
+    console.log(`${currentURL} === ${pageHREF}`)
+
+    if (currentURL === pageHREF) {
+        console.log('Match!')
+        item.className = 'nav-link active'
         matchfound = true
     } else {
-        item.parentNode.className = 'li'
+        item.className = 'nav-link'
     }
-}
-
-for (let item of mobileMenu) {
-    let currentURL = item.getAttribute('href')
-    // console.log(`${currentURL} === ./${pageHREF}`)
-    if (currentURL === './' + pageHREF) {
-        item.parentNode.className = 'li active'
-        matchfound = true
-    } else {
-        item.parentNode.className = 'li'
-    }
-}
-
-if (!matchfound) {
-    menu[0].parentNode.className = 'li active'
-    mobileMenu[0].parentNode.className = 'li active'
 }
